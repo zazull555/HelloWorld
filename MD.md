@@ -1,13 +1,14 @@
 
 # Projecto Nº1 Blokus - Inteligência Artificial
 
-Alt-H1 Projecto Nº1 Blokus - Inteligência Artificial
-======
 
-## Professores
-###  Professor Joaquim Filipe
+## Docentes
+### Professor Joaquim Filipe
 ###	Professor Hugo Silva
 
+## Alunos
+### Pedro Ribeiro       nº 140221043
+### Rafael Carpinteiro  nº 150221009
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
