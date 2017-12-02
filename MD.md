@@ -35,6 +35,13 @@ look like:
 
 
 ## Puzzle.lisp ##
+	
+#### Construtor ####
+	*  no-teste
+#### Seletores ####
+	* linha
+	* coluna
+	* celula
 
 > They can span multiple paragraphs,
 > if you like.
