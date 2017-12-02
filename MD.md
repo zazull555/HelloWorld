@@ -1,11 +1,10 @@
 
-Projecto Nº1 Blokus - Inteligência Artificial
-
 # Projecto Nº1 Blokus - Inteligência Artificial
 
-Professores:
 
-##### Professores:
+## Professores: Professor Joaquim Filipe
+##				Professor Hugo Silva
+
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
