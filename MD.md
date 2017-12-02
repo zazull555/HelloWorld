@@ -11,20 +11,13 @@
 ### Rafael Carpinteiro  nº 150221009
 
 
-#### Indice
-	1. Introdução
-	2. Ficheiros que compõem o projecto
-	3. puzzle.lisp 
-	* Operadores
-	* Construtor
-	* Criação do tabuleiro
-	* Heuristica
-	* Seletores
-	* Funções auxiliares
-	* Estatísticas
+## Indice
 	
-  * Ficheiros que compõem o projecto
-  ** puzzle.lisp
+  * Introdução
+  * Projecto.lisp
+  * Procura.lisp
+  * Puzzle.lisp
+  
 
   2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
