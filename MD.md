@@ -1,17 +1,17 @@
 
-# Projecto Nº1 Blokus - Inteligência Artificial
+# Projecto Nº1 Blokus - Inteligência Artificial #
 
 
-## Docentes
-### Professor Joaquim Filipe
-###	Professor Hugo Silva
+## Docentes ##
+### Professor Joaquim Filipe ###
+###	Professor Hugo Silva ###
 
-## Alunos
-### Pedro Ribeiro       nº 140221043
-### Rafael Carpinteiro  nº 150221009
+## Alunos ##
+### Pedro Ribeiro       nº 140221043 ##
+### Rafael Carpinteiro  nº 150221009 ##
 
 
-## Indice
+## Indice ##
 	
   * Introdução
   * Projecto.lisp
@@ -22,12 +22,20 @@
   2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
-
+## Introdução ##
+>babhabahbahbahbahba
+>ahbahbahbahbahabhba
 > Block quotes are
 > written like so.
->
+
+## Projecto.lisp ##
+
+
+## Procura.lisp ##
+
+
+## Puzzle.lisp ##
+
 > They can span multiple paragraphs,
 > if you like.
 
