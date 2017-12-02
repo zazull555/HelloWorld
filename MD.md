@@ -38,11 +38,22 @@ look like:
 	
 #### Construtor ####
 	*  no-teste
+	
 #### Seletores ####
 	* linha
 	* coluna
 	* celula
-
+	* no-estado
+	* no-pai
+	* no-profundidade
+	* tabuleiro
+	* pecas
+	* pecas-1x1
+	* pecas-2x2
+	* pecas-cruz
+	* get-valor-heuristica
+	
+	
 > They can span multiple paragraphs,
 > if you like.
 
