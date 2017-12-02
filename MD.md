@@ -1,10 +1,11 @@
 
 Projecto Nº1 Blokus - Inteligência Artificial
 
-============
+#
 
 Professores:
-##
+
+#####
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
