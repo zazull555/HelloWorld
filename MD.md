@@ -52,6 +52,16 @@ look like:
 	* pecas-2x2
 	* pecas-cruz
 	* get-valor-heuristica
+#### Operadores ####
+		
+#### Criação do tabuleiro ####
+	* tabuleiro-vazio
+
+#### Funções Auxiliares de Procura ####
+
+#### Heuristicas ####
+
+#### Estatísticas ####
 	
 	
 > They can span multiple paragraphs,
