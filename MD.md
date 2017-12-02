@@ -10,12 +10,14 @@
 ### Pedro Ribeiro       nº 140221043
 ### Rafael Carpinteiro  nº 150221009
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
 
-  * this one
-  * that one
-  * the other one
+####Indice
+  * Introdução
+  * Ficheiros que compõem o projecto
+  ** puzzle.lisp
+
+  2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
