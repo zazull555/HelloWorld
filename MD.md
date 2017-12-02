@@ -11,7 +11,10 @@
 ### Rafael Carpinteiro  nº 150221009
 
 
-####Indice
+#### Indice
+	1. Introdução
+	2. Ficheiros que compõem o projecto
+	⋅⋅* puzzle.lisp 
   * Introdução
   * Ficheiros que compõem o projecto
   ** puzzle.lisp
