@@ -14,8 +14,15 @@
 #### Indice
 	1. Introdução
 	2. Ficheiros que compõem o projecto
-	⋅⋅* puzzle.lisp 
-  * Introdução
+	3. puzzle.lisp 
+	* Operadores
+	* Construtor
+	* Criação do tabuleiro
+	* Heuristica
+	* Seletores
+	* Funções auxiliares
+	* Estatísticas
+	
   * Ficheiros que compõem o projecto
   ** puzzle.lisp
 
