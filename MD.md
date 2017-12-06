@@ -32,8 +32,11 @@ look like:
 
 
 ## Procura.lisp ##
-
-
+	* procura-ida*
+### Algoritmos ###
+	* bfs
+	* dfs
+	
 ## Puzzle.lisp ##
 	
 #### Construtor ####
