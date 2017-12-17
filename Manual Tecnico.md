@@ -233,11 +233,11 @@ Em baixo vão estar as tabelas com os resultados dos problemas do enunciado. Mos
 | A* HA     | ![Imgur](https://i.imgur.com/R5d4jox.png) |
 | A*HB      | ![Imgur](https://i.imgur.com/xFwZtoJ.png) |
 | A*HC      | ![Imgur](https://i.imgur.com/YKi8Y3I.png) |
-| A*HD      | ![ProblemaAHeuristicaD](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HD_PROBA-2.png) |
-| IDA* HA   | ![ProblemaA IDA* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HA_PROBA-2.png) |
-| IDA* HB   | ![ProblemaA IDA* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HB_PROBA-2.png) |
-| IDA* HC   | ![ProblemaA IDA* HeuristicaC](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HC_PROBA_2.png) |
-| IDA* HD   | ![ProblemaA IDA* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HD_PROBA_2.png) |
+| A*HD      | ![Imgur](https://i.imgur.com/a2S7kdH.png) |
+| IDA* HA   | ![Imgur](https://i.imgur.com/kDv08OF.png) |
+| IDA* HB   | ![Imgur](https://i.imgur.com/xFwZtoJ.png) |
+| IDA* HC   | ![Imgur](https://i.imgur.com/jtGJ0Zr.png) |
+| IDA* HD   | ![Imgur](https://i.imgur.com/l1TeKED.png) |
 
 
 
@@ -245,92 +245,120 @@ Em baixo vão estar as tabelas com os resultados dos problemas do enunciado. Mos
 
 | Algoritmo |                                          |
 | --------- | ---------------------------------------- |
-| BFS       | ![ProblemaB BFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\BFS_PROBB_2.png) |
-| DFS       | ![ProblemaB DFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\DFS_PROBB_2.png) |
-| A* HA     | ![ProblemaB HeuristaA](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\A_HA_PROBB_2.png) |
-| A* HB     | ![ProblemaB HeuristicaB](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\A_HB_PROBB_2.png) |
-| A* HC     | ![ProblemaB HeuristicaC](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\A_HC_PROBB_2.png) |
-| A* HD     | ![ProblemaB HeuristicaB](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\A_HD_PROBB_2.png) |
-| IDA* HA   | ![ProblemaB IDA* HA](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\IDA_HA_PROBB_2.png) |
-| IDA* HB   | ![ProblemaB IDA* HeuristicaB](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\IDA_HB_PROBB_2.png) |
-| IDA* HC   | ![ProblemaB IDA* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\IDA_HC_PROBB_2.png) |
-| IDA* HD   | ![ProblemaB IDA* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBB\IDA_HD_PROBB_2.png) |
+| BFS       | ![Imgur](https://i.imgur.com/GCvhrwt.png) |
+| DFS       | ![Imgur](https://i.imgur.com/RUJdm3z.png) |
+| A* HA     | ![Imgur](https://i.imgur.com/CCQi3hi.png) |
+| A* HB     | ![Imgur](https://i.imgur.com/2rKDvv8.png) |
+| A* HC     | ![Imgur](https://i.imgur.com/7EDwevC.png) |
+| A* HD     | ![Imgur](https://i.imgur.com/B59mDAZ.png) |
+| IDA* HA   | ![Imgur](https://i.imgur.com/LovoQlc.png) |
+| IDA* HB   | ![Imgur](https://i.imgur.com/CC8btPu.png) |
+| IDA* HC   | ![Imgur](https://i.imgur.com/8yH7Hqn.png) |
+| IDA* HD   | ![Imgur](https://i.imgur.com/Dw41Vrq.png) |
 
 ##### Problema C:
 
 | Algoritmo |                                          |
 | --------- | ---------------------------------------- |
-| BFS       | ![ProblemaC BFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\BFS_PROBC_2.png) |
-| DFS       | ![ProblemaC DFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\DFS_PROBC_2.png) |
-| A* HA     | ![ProblemaC A* HeuristicaA](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\A_HA_PROBC_2.png) |
-| A* HB     | ![ProblemaC A Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\A_HB_PROBC_2.png) |
-| A* HC     | ![ProblemaC A* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\A_HC_PROBC_2.png) |
-| A* HD     | ![ProblemaC A* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\A_HD_PROBC_2.png) |
-| IDA* HA   | ![ProblemaC IDA* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\IDA_HA_PROBC_2.png) |
-| IDA* HB   | ![](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\IDA_HB_PROBC_2.png) |
-| IDA* HC   | ![ProblemaC IDA* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\IDA_HC_PROBC_2.png) |
-| IDA* HD   | ![ProblemaC IDA* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBC\IDA_HD_PROBC_2.png) |
+| BFS       | ![Imgur](https://i.imgur.com/2IxgVMF.png) |
+| DFS       | ![Imgur](https://i.imgur.com/hJUUPNe.png) |
+| A* HA     | ![Imgur](https://i.imgur.com/SFW1cbc.png) |
+| A* HB     | ![Imgur](https://i.imgur.com/5UxTBZK.png) |
+| A* HC     | ![Imgur](https://i.imgur.com/SlKtMAf.png) |
+| A* HD     | ![Imgur](https://i.imgur.com/xj7uKwN.png) |
+| IDA* HA   | ![Imgur](https://i.imgur.com/slJZXE6.png) |
+| IDA* HB   | ![Imgur](https://i.imgur.com/dQtySkC.png) |
+| IDA* HC   | ![Imgur](https://i.imgur.com/Hw5UHjE.png) |
+| IDA* HD   | ![Imgur](https://i.imgur.com/xexCDA8.png) |
 
 ##### Problema D:
 
 | Algoritmo |                                          |
 | --------- | ---------------------------------------- |
-| BFS       | ![ProblemaD BFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\BFS_PROBD_2.png) |
-| DFS       | ![ProblemaD DFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\DFS_PROBD_2.png) |
-| A* HA     | ![ProblemaD A* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\A_HA_PROBD_2.png) |
-| A* HB     | ![ProblemaD A* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\A_HB_PROBD_2.png) |
-| A* HC     | ![ProblemaD A* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\A_HC_PROBD_2.png) |
-| A* HD     | ![ProblemaD A* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\A_HD_PROBD_2.png) |
-| IDA* HA   | ![ProblemaD IDA* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\IDA_HA_PROBD_2.png) |
-| IDA* HB   | ![](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\IDA_HB_PROBD_2.png) |
-| IDA* HC   | ![ProblemaD IDA* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\IDA_HC_PROBD_2.png) |
-| IDA* HD   | ![ProblemaD IDA* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBD\IDA_HD_PROBD_2.png) |
+| BFS       | ![Imgur](https://i.imgur.com/SVRQkRJ.png) |
+| DFS       | ![Imgur](https://i.imgur.com/E3jyCQG.png) |
+| A* HA     | ![Imgur](https://i.imgur.com/RZwj3pH.png) |
+| A* HB     | ![Imgur](https://i.imgur.com/q3egEBV.png) |
+| A* HC     | ![Imgur](https://i.imgur.com/n29P99y.png) |
+| A* HD     | ![Imgur](https://i.imgur.com/5pCbQIb.png) |
+| IDA* HA   | ![Imgur](https://i.imgur.com/gl3ZK0j.png) |
+| IDA* HB   | ![Imgur](https://i.imgur.com/gl3ZK0j.png) |
+| IDA* HC   | ![Imgur](https://i.imgur.com/n29P99y.png) |
+| IDA* HD   | ![Imgur](https://i.imgur.com/VxaPIHE.png) |
 
 ##### Problema E:
 
 | Algoritmo |                                          |
 | --------- | ---------------------------------------- |
-| BFS       | ![ProblemaE BFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\BFS_PROBE_2.png) |
-| DFS       | ![ProblemaE DFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\DFS_PROBE_2.png) |
-| A* HA     | ![Problema A* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\A_HA_PROBE_3.png) |
-| A* HB     | ![ProblemaE A* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\A_HB_PROBE_3.png) |
-| A* HC     | ![ProblemaE A* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\A_HC_PROBE_2.png) |
-| A* HD     | ![ProblemaE A* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\A_HD_PROBE_2.png) |
-| IDA* HA   | ![ProblemaE IDA* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\IDA_HA_PROBE_3.png) |
-| IDA* HB   | ![ProblemaE IDA* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\IDA_HB_PROBE_3.png) |
-| IDA* HC   | ![ProblemaE IDA* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\IDA_HC_PROBE_2.png) |
-| IDA* HD   | ![ProblemaE IDA* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBE\IDA_HD_PROBE_2.png) |
+| BFS       | ![Imgur](https://i.imgur.com/Bni8QWW.png) |
+| DFS       | ![Imgur](https://i.imgur.com/xP23LAs.png) |
+| A* HA     | ![Imgur](https://i.imgur.com/m9u6bjj.png) |
+| A* HB     | ![Imgur](https://i.imgur.com/jYsGDhO.png) |
+| A* HC     | ![Imgur](https://i.imgur.com/PS6RvnN.png) |
+| A* HD     | ![Imgur](https://i.imgur.com/bh8fJr2.png) |
+| IDA* HA   | ![Imgur](https://i.imgur.com/u7FPamJ.png) |
+| IDA* HB   | ![Imgur](https://i.imgur.com/u7FPamJ.png) |
+| IDA* HC   | ![Imgur](https://i.imgur.com/fJmRwNS.png) |
+| IDA* HD   | ![Imgur](https://i.imgur.com/Crvt6SR.png) |
 
 ##### Problema F:
 
 | Algoritmo |                                          |
 | :-------- | ---------------------------------------- |
 | BFS       | Não encontra solução                     |
-| DFS       | ![ProblemaF DFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\DFS_PROBF_3.png) |
-| A* HA     | ![ProblemaA A* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\A_HA_PROBF_3.png) |
-| A* HB     | ![ProblemaF A* HeuristicaB](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\A_HB_PROBF_3.png) |
-| A* HC     | ![ProblemaF A* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\A_HC_PROBF_3.png) |
-| A* HD     | ![](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\DFS_PROBF_3.png) |
-| IDA* HA   | ![ProblemaF IDA* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\IDA_HA_PROBF_3.png) |
-| IDA* HB   | ![ProblemaF IDA* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\IDA_HB_PROBF_3.png) |
-| IDA* HC   | ![](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\IDA_HC_PROBF_3.png) |
-| IDA* HD   | ![ProblemaF IDA* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBF\IDA_HD_PROBF_2.png) |
+| DFS       | ![Imgur](https://i.imgur.com/Fw73S6O.png) |
+| A* HA     | ![Imgur](https://i.imgur.com/i7LmSm4.png) |
+| A* HB     | ![Imgur](https://i.imgur.com/nBJT912.png) |
+| A* HC     | ![Imgur](https://i.imgur.com/9Hac3Tv.png) |
+| A* HD     | ![Imgur](https://i.imgur.com/1pgPMrB.png) |
+| IDA* HA   | ![Imgur](https://i.imgur.com/blgXW46.png) |
+| IDA* HB   | ![Imgur](https://i.imgur.com/My0Mhqx.png) |
+| IDA* HC   | ![Imgur](https://i.imgur.com/SoVv5cL.png) |
+| IDA* HD   | ![Imgur](https://i.imgur.com/jrsjqkh.png) |
 
 #### Caminho ate ao nó objectivo
 
 ##### Problema A:
 
-| BFS     | ![Problema A BFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\BFS_PROBA.png) |
+| BFS     | ![Imgur](https://i.imgur.com/KQc0EQp.png) |
 | ------- | ---------------------------------------- |
-| DFS     | ![Problema A DFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\DFS_PROBA.png) |
-| A* HA   | ![ProblemaA A* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HA_PROBA.png) |
+| DFS     | ![Imgur](https://i.imgur.com/QdAfO5x.png) |
+| A* HA   | ![Imgur](https://i.imgur.com/chtmRE6.png) |
 | A* HB   | ![ProblemaA A* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HB_PROBA.png) |
-| A* HC   | ![ProblemaA A* Heuristica C](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HA_PROBA.png) |
-| A* HD   | ![ProblemaA A* Heuristica d](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HD_PROBA.png) |
-| IDA* HA | ![ProblemaA Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HA_PROBA.png) |
-| IDA* HB | ![ProblemaA Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HB_PROBA.png) |
-| IDA* HC | ![ProblemaA IDA* Heuristica C ](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HC_PROBA.png) |
-| IDA* HD | ![ProblemaA IDA* Heuristica D](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HD_PROBA.png) |
+| A* HC   | ![Imgur](https://i.imgur.com/dkqJRz9.png) |
+| A* HD   | ![Imgur](https://i.imgur.com/X2ffBUY.png) |
+| IDA* HA | ![Imgur](https://i.imgur.com/ObpDUw5.png) |
+| IDA* HB | ![Imgur](https://i.imgur.com/J8NjTG9.png) |
+| IDA* HC | ![Imgur](https://i.imgur.com/2DfnSpl.png) |
+| IDA* HD | ![Imgur](https://i.imgur.com/hQ9zwra.png) |
+
+Problema B:
+
+| BFS     | ![Imgur](https://i.imgur.com/AwCHGjC.png) |
+| ------- | ---------------------------------------- |
+| DFS     |                                          |
+| A* HA   |                                          |
+| A* HB   |                                          |
+| A* HC   |                                          |
+| A* HD   |                                          |
+| IDA* HA |                                          |
+| IDA* HB |                                          |
+| IDA* HC |                                          |
+| IDA* HD |                                          |
+
+Problema C:
+
+
+
+Problma D:
+
+
+
+Problema E:
+
+
+
+Problema F:
 
 
 
