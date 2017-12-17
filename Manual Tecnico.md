@@ -245,14 +245,14 @@ Em baixo vão estar as tabelas com os resultados dos problemas do enunciado. Mos
 
 | Algoritmo |                                          |
 | --------- | ---------------------------------------- |
-| BFS       | ![Imgur](https://i.imgur.com/GCvhrwt.png) |
-| DFS       | ![Imgur](https://i.imgur.com/RUJdm3z.png) |
+| BFS       | ![Imgur](https://i.imgur.com/0bau9VT.png) |
+| DFS       | ![Imgur](https://i.imgur.com/3Su0BGq.png) |
 | A* HA     | ![Imgur](https://i.imgur.com/CCQi3hi.png) |
 | A* HB     | ![Imgur](https://i.imgur.com/2rKDvv8.png) |
 | A* HC     | ![Imgur](https://i.imgur.com/7EDwevC.png) |
 | A* HD     | ![Imgur](https://i.imgur.com/B59mDAZ.png) |
 | IDA* HA   | ![Imgur](https://i.imgur.com/LovoQlc.png) |
-| IDA* HB   | ![Imgur](https://i.imgur.com/CC8btPu.png) |
+| IDA* HB   | ![Imgur](https://i.imgur.com/64iSnT7.png) |
 | IDA* HC   | ![Imgur](https://i.imgur.com/8yH7Hqn.png) |
 | IDA* HD   | ![Imgur](https://i.imgur.com/Dw41Vrq.png) |
 
@@ -336,15 +336,15 @@ Problema B:
 
 | BFS     | ![Imgur](https://i.imgur.com/AwCHGjC.png) |
 | ------- | ---------------------------------------- |
-| DFS     |                                          |
-| A* HA   |                                          |
-| A* HB   |                                          |
-| A* HC   |                                          |
-| A* HD   |                                          |
-| IDA* HA |                                          |
-| IDA* HB |                                          |
-| IDA* HC |                                          |
-| IDA* HD |                                          |
+| DFS     | ![Imgur](https://i.imgur.com/TEvGCCc.png) |
+| A* HA   | ![Imgur](https://i.imgur.com/F42pqyl.png) |
+| A* HB   | ![Imgur](https://i.imgur.com/LRDbDhs.png) |
+| A* HC   | ![Imgur](https://i.imgur.com/TB1FNkg.png) |
+| A* HD   | ![Imgur](https://i.imgur.com/3NPJJ68.png) |
+| IDA* HA | ![Imgur](https://i.imgur.com/G52rQGX.png) |
+| IDA* HB | ![Imgur](https://i.imgur.com/WYwA4d5.png) |
+| IDA* HC | ![Imgur](https://i.imgur.com/DifZjx0.png) |
+| IDA* HD | ![Imgur](https://i.imgur.com/ZoD9SmU.png) |
 
 Problema C:
 
