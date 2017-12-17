@@ -248,10 +248,10 @@ Em baixo vão estar as tabelas com os resultados dos problemas do enunciado. Mos
 | BFS       | ![Imgur](https://i.imgur.com/0bau9VT.png) |
 | DFS       | ![Imgur](https://i.imgur.com/3Su0BGq.png) |
 | A* HA     | ![Imgur](https://i.imgur.com/HTOS6nr.png) |
-| A* HB     | ![Imgur](https://i.imgur.com/2rKDvv8.png) |
+| A* HB     | ![Imgur](https://i.imgur.com/iE4KeZz.png) |
 | A* HC     | ![Imgur](https://i.imgur.com/MnxSlkq.png) |
 | A* HD     | ![Imgur](https://i.imgur.com/1rL85tC.png) |
-| IDA* HA   | ![Imgur](https://i.imgur.com/LovoQlc.png) |
+| IDA* HA   | ![Imgur](https://i.imgur.com/2YIDXSA.png) |
 | IDA* HB   | ![Imgur](https://i.imgur.com/64iSnT7.png) |
 | IDA* HC   | ![Imgur](https://i.imgur.com/8yH7Hqn.png) |
 | IDA* HD   | ![Imgur](https://i.imgur.com/KjQIhqs.png) |
