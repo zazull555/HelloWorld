@@ -228,11 +228,11 @@ Em baixo vão estar as tabelas com os resultados dos problemas do enunciado. Mos
 
 | Algoritmo |                                          |
 | --------- | ---------------------------------------- |
-| BFS       | ![ProbelamABFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\BFS_PROBA-2.png) |
-| DFS       | ![ProblemaADFS](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\DFS_PROBA-2.png) |
-| A* HA     | ![ProblemaAHeuristicaA](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HA_PROBA_2.png) |
-| A*HB      | ![ProblemaHeuristicaB](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HB_PROBA-2.png) |
-| A*HC      | ![ProblemaAHeuristicaC](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HC_PROBA_2.png) |
+| BFS       | ![Imgur](https://i.imgur.com/NirJAXY.png) |
+| DFS       | ![Imgur](https://i.imgur.com/Zizr80u.png) |
+| A* HA     | ![Imgur](https://i.imgur.com/R5d4jox.png) |
+| A*HB      | ![Imgur](https://i.imgur.com/xFwZtoJ.png) |
+| A*HC      | ![Imgur](https://i.imgur.com/YKi8Y3I.png) |
 | A*HD      | ![ProblemaAHeuristicaD](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HD_PROBA-2.png) |
 | IDA* HA   | ![ProblemaA IDA* Heuristica A](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HA_PROBA-2.png) |
 | IDA* HB   | ![ProblemaA IDA* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\IDA_HB_PROBA-2.png) |
