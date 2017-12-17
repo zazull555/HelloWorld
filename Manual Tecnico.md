@@ -324,7 +324,7 @@ Em baixo vão estar as tabelas com os resultados dos problemas do enunciado. Mos
 | ------- | ---------------------------------------- |
 | DFS     | ![Imgur](https://i.imgur.com/QdAfO5x.png) |
 | A* HA   | ![Imgur](https://i.imgur.com/chtmRE6.png) |
-| A* HB   | ![ProblemaA A* Heuristica B](C:\Users\Zorg\Desktop\Lisp-Sol\PROBA\A_HB_PROBA.png) |
+| A* HB   | ![Imgur](https://i.imgur.com/XWcE5hB.png) |
 | A* HC   | ![Imgur](https://i.imgur.com/dkqJRz9.png) |
 | A* HD   | ![Imgur](https://i.imgur.com/x7wdHLw.png)) |
 | IDA* HA | ![Imgur](https://i.imgur.com/ObpDUw5.png) |
@@ -348,11 +348,31 @@ Problema B:
 
 Problema C:
 
-
+| BFS     | ![Imgur](https://i.imgur.com/yBseS72.png) |
+| ------- | ---------------------------------------- |
+| DFS     | ![Imgur](https://i.imgur.com/8vKUIjp.png) |
+| A* HA   | ![Imgur](https://i.imgur.com/jdmTNkq.png) |
+| A* HB   | ![Imgur](https://i.imgur.com/Y0CnqaL.png) |
+| A* HC   | ![Imgur](https://i.imgur.com/mQn1hll.png) |
+| A* HD   | ![Imgur](https://i.imgur.com/0IRTrBK.png) |
+| IDA* HA | ![Imgur](https://i.imgur.com/9Hx2IM9.png) |
+| IDA* HB | ![Imgur](https://i.imgur.com/DF1gBlg.png) |
+| IDA* HC | ![Imgur](https://i.imgur.com/Xh5s0bS.png) |
+| IDA* HD | ![Imgur](https://i.imgur.com/ZbhtLDn.png) |
 
 Problma D:
 
-
+| BFS     | ![Imgur](https://i.imgur.com/DCI54CF.png) |
+| ------- | ---------------------------------------- |
+| DFS     | ![Imgur](https://i.imgur.com/7rUZySf.png) |
+| A* HA   | ![Imgur](https://i.imgur.com/l9UQucS.png) |
+| A* HB   | ![Imgur](https://i.imgur.com/Zk5gcGk.png) |
+| A* HC   | ![Imgur](https://i.imgur.com/DfKHbCy.png) |
+| A* HD   | ![Imgur](https://i.imgur.com/4HHPopY.png) |
+| IDA* HA | ![Imgur](https://i.imgur.com/BSxdjqq.png) |
+| IDA* HB | ![Imgur](https://i.imgur.com/8G8HR6S.png) |
+| IDA* HC | ![Imgur](https://i.imgur.com/YaEiaof.png) |
+| IDA* HD | ![Imgur](https://i.imgur.com/DJMEXPx.png) |
 
 Problema E:
 
